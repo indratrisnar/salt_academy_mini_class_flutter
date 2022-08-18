@@ -15,3 +15,9 @@ Untuk export apk,  ada 2 cara:
 - flutter build apk --release
 - flutter build apk --split-per-abi
 nanti setelah selesai,  di terminal bakal dikasih tau lokasi apk nya.
+
+Jika ada permasalahan terkait C++ atau platform desktop windows, dikarenakan tidak menginstall visua studio?
+Solusi alternatif: 
+- buat project baru
+- copy paste folder lib, beserta asset (jika ada asset)
+- copy paste package di pubspek.yaml (jika ada penambahan selain default)
