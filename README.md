@@ -1,16 +1,17 @@
 # flutter_application_1
 
-A new Flutter project.
+Mini Class (Short Live Coding) - Salt Academy.
 
-## Getting Started
+Instalasi Project Flutter:
+- buka project di vscode
+- buka file pubspek.yaml
+- jalankan perintah dart pub get /atau klik icon download dibagian kanan atas /atau ctrl+save (untuk mendownload package)
+- tunggu proses download
+- tunggu analyzing (biasanya lebih lama dari proses download)
+- running
+- done
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Untuk export apk,  ada 2 cara:
+- flutter build apk --release
+- flutter build apk --split-per-abi
+nanti setelah selesai,  di terminal bakal dikasih tau lokasi apk nya
