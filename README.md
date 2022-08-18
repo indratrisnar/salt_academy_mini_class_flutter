@@ -14,4 +14,4 @@ Instalasi Project Flutter:
 Untuk export apk,  ada 2 cara:
 - flutter build apk --release
 - flutter build apk --split-per-abi
-nanti setelah selesai,  di terminal bakal dikasih tau lokasi apk nya
+nanti setelah selesai,  di terminal bakal dikasih tau lokasi apk nya.
